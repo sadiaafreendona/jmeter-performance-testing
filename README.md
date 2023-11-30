@@ -69,7 +69,7 @@ https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbo
 Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on the jMeter version you are using)
 
 - Name: Users
-- Number of Threads (users): 200 to 400
+- Number of Threads (users): 200 to 300
 - Ramp-Up Period (in seconds): 1
 - Loop Count: 1
 
@@ -100,7 +100,7 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
   ### Load the JMeter Script 
    - File > Open (CTRL + O)
    - Locate the "simpleLearn_u200.jmx" file contained on this repo
-   - Continue open simpleLearn_u200.jmx to simpleLearn_u400.jmx
+   - Continue open bangla-puzzle_200.jmx to bangla-puzzle_300.jmx
    - Open those file
    - The Test Plan will be loaded
 ![loadjmx](https://github.com/imranhasanraaz/jmeter-perfomance-testing/assets/110620143/8cc4198b-ab6e-4231-bd38-693ff3a99da7)
