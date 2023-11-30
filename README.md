@@ -99,7 +99,7 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
     
   ### Load the JMeter Script 
    - File > Open (CTRL + O)
-   - Locate the "simpleLearn_u200.jmx" file contained on this repo
+   - Locate the "bangla-puzzle_200.jmx" file contained on this repo
    - Continue open bangla-puzzle_200.jmx to bangla-puzzle_300.jmx
    - Open those file
    - The Test Plan will be loaded
