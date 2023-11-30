@@ -25,11 +25,13 @@
 
 
 ### Summary
-- 
+- While executed 300 concurrent request, found 7 request got connection timeout and error rate is 0.35%.
+- Summary: Server can handle almost concurrent 250 API call with almost zero (0) error rate.
+
 
 # Introduction
 
-This document explains how to run a performance test with JMeter against an restful-booker.herokuapp.com
+This document explains how to run a performance test with JMeter against banglapuzzle.com
 
 # Install
 
