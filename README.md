@@ -16,16 +16,12 @@
 
 # Load testing Report
 
-| Concurrent Request  | Loop Count | Avg TPS for Total Samples  | Error Rate | Total Concurrent API request |
-|               :---: |      :---: |                      :---: |                        :---: |      :---: |
-| 10  | 1  | 0.95  | 33.33%      | 30   |
-| 100  | 1  |  8.69     | 33.33%      | 300   |
-| 500  | 1  |  30.92    | 33.40%   | 1500   |
+
 
 
 
 ### Summary
-- While executed 300 concurrent request, found 7 request got connection timeout and error rate is 0.35%.
+- While executed 300 concurrent request, found  request got connection timeout and error rate is %.
 - Summary: Server can handle almost concurrent 250 API call with almost zero (0) error rate.
 
 
@@ -56,7 +52,7 @@ https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbo
 # Elements of a minimal test plan
 - Thread Group
 
-    The root element of every test plan. Simulates the (concurrent) users and then run all requests. Each thread simulates a single user.
+   The root element of every test plan. Simulates the (concurrent) users and then run all requests. Each thread simulates a single user.
 
 - HTTP Request Default (Configuration Element)
 
@@ -115,22 +111,24 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
 
  ### Make jtl file
 
-```bash
-  jmeter -n -t  simpleLearn_u200.jmx -l simpleLearn_u200.jtl
+```cmd prompt
+  jmeter -n -t  bangla-puzzle_200.jmx -l bangla-puzzle_200.jtl
 ```      
-  Then continue to upgrade Threads(200 to 400) by keeping Ramp-up Same.   
+  Then continue to upgrade Threads(200 to 300) by keeping Ramp-up Same.   
 
 After completing this command  
    ### Make html file   
   
-  ```bash
-  jmeter -g report\simpleLearn_u200.jtl -o simpleLearn_u200.html
+  ```cmd prompt
+  jmeter -g report\bangla-puzzle_200.jtl -o bangla-puzzle_200.html
 ```
   - **g**: jtl results file
 
   - **o**: path to output folder
   - \
-    ![Capture](https://github.com/imranhasanraaz/jmeter-perfomance-testing/assets/110620143/eedfa7ad-4c4b-4bf2-9849-c2e2be8d3d0c)  
+      ![folder](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/eccdec4d-9a63-470d-a8bc-bb3fa4fa4a0b)
+      ![html](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/3ebb3f90-aae8-4d47-a9ba-a852ce5cc5c1)
+
 
 # HTML Report
 
