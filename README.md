@@ -131,7 +131,8 @@ After completing this command
   - **o**: path to output folder
   - \
     ![folder](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/b26b7db7-2100-49a4-b449-b520ee9b425c)
-    ![Screenshot](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/275f0edd-81e1-4790-b426-483e3fffe02f)
+    ![Capture1](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/3e0c287e-7052-4b44-8ac6-0e04c53e1f7e)
+
 
 
       
