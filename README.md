@@ -86,10 +86,9 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
     ### List of API 
 
     - [https://www.banglapuzzle.com/](https://www.banglapuzzle.com/)
-    - [https://www.banglapuzzle.com/contact](https://www.banglapuzzle.com/contact)
-    - [https://www.banglapuzzle.com/career](https://www.banglapuzzle.com/career)
     - [https://www.banglapuzzle.com/products](https://www.banglapuzzle.com/products)
-    - [https://www.banglapuzzle.com/services](https://www.banglapuzzle.com/services)
+    - [https://www.banglapuzzle.com/about](https://www.banglapuzzle.com/about)
+    - [https://www.banglapuzzle.com/contact](https://www.banglapuzzle.com/contact)
 
    **OR**
     
