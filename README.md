@@ -15,7 +15,11 @@
 - [HTML Report](https://github.com/sadiaafreendona/jmeter-performance-testing#html-report) 
 
 # Load testing Report
-
+| Concurrent Request  | Loop Count | Avg TPS for Total Samples  | Error Rate | Total Concurrent API request |
+|               :---: |      :---: |                      :---: |                        :---: |      :---: |
+| 200  | 1  | 0.72  | 0%      | 800   |
+| 300  | 1  |  0.88     | 0%      | 1200   |
+| 310  | 1  |  0.90    | 0%   | 1240   |
 
 
 
