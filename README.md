@@ -102,7 +102,8 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
    - Continue open bangla_puzzle_200.jmx to bangla_puzzle_310.jmx
    - Open those file
    - The Test Plan will be loaded
-![jmeter](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/309f80f7-90ca-49b3-a62c-1be86dddac9e)
+    ![jmeter](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/8cd8f56e-e815-4537-bcab-091cb33af0b5)
+
 
 
 
