@@ -125,8 +125,11 @@ After completing this command
 
   - **o**: path to output folder
   - \
-      ![folder](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/eccdec4d-9a63-470d-a8bc-bb3fa4fa4a0b)
-      ![html](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/3ebb3f90-aae8-4d47-a9ba-a852ce5cc5c1)
+    ![folder](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/b26b7db7-2100-49a4-b449-b520ee9b425c)
+    ![Screenshot](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/275f0edd-81e1-4790-b426-483e3fffe02f)
+
+
+      
 
 
 # HTML Report
