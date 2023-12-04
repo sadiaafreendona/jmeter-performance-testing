@@ -65,7 +65,7 @@ https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbo
 Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on the jMeter version you are using)
 
 - Name: Users
-- Number of Threads (users): 200 to 300
+- Number of Threads (users): 200 to 310
 - Ramp-Up Period (in seconds): 1
 - Loop Count: 1
 
@@ -113,7 +113,7 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
 ```cmd prompt
   jmeter -n -t  bangla-puzzle_200.jmx -l bangla-puzzle_200.jtl
 ```      
-  Then continue to upgrade Threads(200 to 300) by keeping Ramp-up Same.   
+  Then continue to upgrade Threads(200 to 310) by keeping Ramp-up Same.   
 
 After completing this command  
    ### Make html file   
