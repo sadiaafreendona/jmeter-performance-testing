@@ -22,7 +22,7 @@
 
 ### Summary
 
-- Summary: Server can handle almost concurrent 250 API call with almost zero (0) error rate.
+- Summary: Server can handle almost concurrent 310 API call with almost zero (0) error rate.
 
 
 # Introduction
