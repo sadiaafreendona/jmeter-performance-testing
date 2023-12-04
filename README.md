@@ -21,10 +21,10 @@
 
 
 ### Summary
-
+- While executed 320 concurrent requests, it shows errors but cmd prompt fails to show all results due to server error !
 - Summary: Server can handle almost concurrent 310 API call with almost zero (0) error rate.
 
-
+  
 # Introduction
 
 This document explains how to run a performance test with JMeter against banglapuzzle.com
