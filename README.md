@@ -94,8 +94,8 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
     
   ### Load the JMeter Script 
    - File > Open (CTRL + O)
-   - Locate the "bangla-puzzle_200.jmx" file contained on this repo
-   - Continue open bangla-puzzle_200.jmx to bangla-puzzle_310.jmx
+   - Locate the "bangla_puzzle_200.jmx" file contained on this repo
+   - Continue open bangla_puzzle_200.jmx to bangla_puzzle_310.jmx
    - Open those file
    - The Test Plan will be loaded
 ![jmeter](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/309f80f7-90ca-49b3-a62c-1be86dddac9e)
@@ -111,7 +111,7 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
  ### Make jtl file
 
 ```cmd prompt
-  jmeter -n -t  bangla-puzzle_200.jmx -l bangla-puzzle_200.jtl
+  jmeter -n -t  bangla_puzzle_200.jmx -l bangla_puzzle_200.jtl
 ```      
   Then continue to upgrade Threads(200 to 310) by keeping Ramp-up Same.   
 
@@ -119,7 +119,7 @@ After completing this command
    ### Make html file   
   
   ```cmd prompt
-  jmeter -g report\bangla-puzzle_200.jtl -o bangla-puzzle_200.html
+  jmeter -g report\bangla_puzzle_200.jtl -o bangla_puzzle_200.html
 ```
   - **g**: jtl results file
 
