@@ -142,16 +142,22 @@ After completing this command
 
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
+![1](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/e4b8095c-0fb5-4cfc-807a-1697ac226da9) | ![2](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/cb457517-97c5-4489-83a3-7b7c9b313b4b)
 
 
-**Number of Threads 300 ; Ramp-Up Period 11s**
+
+**Number of Threads 300 ; Ramp-Up Period 1s**
    
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
+![3](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/05ebdd49-18c2-4237-907b-fafefd6a6eac) | ![4](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/3f053be3-6f49-4cd1-94bf-ddc7e83e8ba4)
 
 
-**Number of Threads 400 ; Ramp-Up Period 1s**
+
+**Number of Threads 310 ; Ramp-Up Period 1s**
    
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
+![5](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/33ff1140-9147-47c8-ba9d-b07fc52bc651) | ![6](https://github.com/sadiaafreendona/jmeter-performance-testing/assets/118355066/fd0467be-7fc0-4e0c-bb82-4e77135f0144)
+
 
