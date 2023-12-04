@@ -1,0 +1,19 @@
+Extract data for reporting in jmeter
+============================================
+Dear BanglaPuzzle, 
+
+I’ve completed performance test on frequently used API for test App.
+Test executed for the below mentioned scenario in 
+1.(HOME Page) https://www.banglapuzzle.com/  =>
+	(PRODUCTS Page) https://www.banglapuzzle.com/products  =>
+		(ABOUT Page) https://www.banglapuzzle.com/about  =>
+			(CONTACT Page)  https://www.banglapuzzle.com/contact
+		
+200 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 0.72 And Total Concurrent API requested: 800.
+300 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 0.88 And Total Concurrent API requested: 1200.
+310 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 0.90 And Total Concurrent API requested: 1240.
+
+
+While executed 320 concurrent requests, it shows errors but cmd prompt fails to show all results due to server error !
+
+Summary: Server can handle almost concurrent 310 API call with almost zero (0) error rate.
