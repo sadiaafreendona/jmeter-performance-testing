@@ -21,7 +21,7 @@
 
 
 ### Summary
-- While executed 300 concurrent request, found  request got connection timeout and error rate is %.
+
 - Summary: Server can handle almost concurrent 250 API call with almost zero (0) error rate.
 
 
